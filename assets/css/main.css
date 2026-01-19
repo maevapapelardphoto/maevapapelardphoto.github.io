@@ -55,6 +55,12 @@ body {
 	-webkit-text-size-adjust: none;
 }
 
+.small-images {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
 mark {
 	background-color: transparent;
 	color: inherit;
